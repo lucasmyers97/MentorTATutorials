@@ -17,3 +17,7 @@
 * How to do tutoring room (for whomever is in charge of the account)
 * Exercises for pre-assigning breakout rooms
 * Exercises for managing breakout rooms during a meeting
+
+## Miscellaneous
+-----------
+* Look for Zoom links corresponding to each of the tutorials
